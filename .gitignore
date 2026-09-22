@@ -7,7 +7,7 @@
 *.o
 *.obj
 
-# Ignore hidden IDE settings if you don't want to share them
+# Ignore hidden IDE settings 
 .vscode/
 
 
