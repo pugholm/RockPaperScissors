@@ -1,0 +1,13 @@
+# Ignore executable files
+*.exe
+*.out
+*.app
+
+# Ignore compiler object files
+*.o
+*.obj
+
+# Ignore hidden IDE settings if you don't want to share them
+.vscode/
+
+
